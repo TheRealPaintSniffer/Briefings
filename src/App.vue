@@ -101,12 +101,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "callsign": "BLACKJACK",
+          "alias": "Samuel Bliss",
+          "code": "Samuel.Bliss:f43edfe6-516f-4342-afb2-c8a202a99513//NDL-C-SINGULARITY-TEMPLE",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "mech": "EDENS PRIDE"
         },
         {
           "callsign": "Kal",
@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
+        "planet": "Cressidium",
+        "year": "5013u",
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "headerTitle": "UNION",
+        "headerSubtitle": "NAVAL DEPARTMENT",
+        "subheaderTitle": "USS",
+        "subheaderSubtitle": "RIO-GRANDE",
       },
       "options":{
         "eventsMarkdownPerMission": true
