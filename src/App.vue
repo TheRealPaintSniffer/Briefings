@@ -101,12 +101,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "BLACKJACK",
-          "alias": "Samuel Bliss",
-          "code": "Samuel.Bliss:f43edfe6-516f-4342-afb2-c8a202a99513//NDL-C-SINGULARITY-TEMPLE",
+          "callsign": "MAYDAY",
+          "alias": "Vivian Hetzler",
+          "code": "Hetzler.Vivian:c690758f-5b83-4886-af1c-07ae03a8c6c1//NDL-C-TANGENT-SEPTEMBER",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "EDENS PRIDE"
+          "mech": "SCHRÖDINGER'S HAMMER"
         },
         {
           "callsign": "Kal",
@@ -149,7 +149,7 @@ export default {
         "ring": "Atlas-Line",
         "headerTitle": "UNION",
         "headerSubtitle": "NAVAL DEPARTMENT",
-        "subheaderTitle": "USS",
+        "subheaderTitle": "UNS-CV",
         "subheaderSubtitle": "RIO-GRANDE",
       },
       "options":{
