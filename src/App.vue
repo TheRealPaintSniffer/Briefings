@@ -109,12 +109,12 @@ export default {
           "mech": "SCHRÖDINGER'S HAMMER"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "callsign": "BLACKJACK",
+          "alias": "Samuel Bliss",
+          "code": ".Samuel.Bliss:f43edfe6-516f-4342-afb2-c8a202a99513//NDL-C-DISCORDANT-AUGUSTa",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
+          "mech": "EDEN'S PRIDE"
         },
         {
           "callsign": "Starboard",
