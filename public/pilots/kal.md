@@ -1,22 +1,33 @@
-Born to a mechanic and NHP technician on a tertiary colony world of the Karrakis Trade Baronies known as Ravin: Vier was orphaned at age 13 alongside their then-toddler brother Craig. Officials declared it was due to complications related to an high class NHP cascade, as both their parents were researching the technology secretly against Union's charter, but Vier has only vague memories of the details after Union officials assumedly effected their memory of the incident and related details.
-Living between foster homes and the streets of an established colony city on Ravin, they took low income service jobs before eventually being mentored under a team of mech mechanics who travel with pilots on expeditions. Enamored by pilots but attached to their brother's daily needs, they took every chance possible to learn from all the mercenary Pilots: stories about the good, the bad, and the strange. This was also where Vier had their first contact with higher class NHPs since childhood, especially when working on the extremely suspicious HORUS frames.
+Gender: Male
 
-When Vier was 20 years old their brother, now 10, caught a fatal logic disease. Vier took out an insane loan to pay for treatment, and he luckily pulled through. Albeit with a new noose around their collective neck: debt collectors. Today, after 6 years with that debt only piling higher, and while now their brother is old enough to also be helping with it, they decided after years of doing everything for their brother, it was their time to risk it all instead of living under pure responsibility. Time to become a pilot and enjoy life.
+Eyes: Dark Brown 
 
-## Random Facts:
+Height: 5'9
 
-- Apprehensions about NHP exposure...
+Hair: Light Brown 
 
-- ...but is actually slowly nurturing a low-class NHP cloned from a mech's internal systems, in order to understand them, since they are generally unavoidable.
+Skin: White 
 
-- Loves their brother, but has some barely-subconscious hatred of the burden he put on them throughout their life.
+Age: 26
 
-- Avoids damage to avoid repair work
+Weight: 165lb.
 
-- Nonbinary
+Samuel Bliss is a soldier, who used to served in the Eden National Army (ENA) before the Union called him up for duty.
 
-- Dyes their hair green with chemicals that are definitely not meant for that
+Samuel served in the ENA for about four years before being transfer to the Union.
 
-- Only owns 2 sets of casual wear
+Samuel specialty in middle range and Assault combat.
 
-- Will steal anything halfway worth stealing if they think they can get away with it
+Samuel have seen some combat before, but not so much to become a veteran. 
+
+Samuel was a volunteer in the ENA before transfer.
+
+Samuel family (The Bliss Family) have a long proud family military tradition of soldiering, all the way back from the formation of the ENA.
+
+Samuel old squadmate buddy's from the ENA are still there and his relationship with them is cordial.
+
+Samuel Bliss was born and raise on a Colony World named Eden Prime. 
+
+Wears his Armor and his Gasmask like a second skin. It's force a habit and shyness.
+
+Samuel named his EVEREST the "Eden's Pride" after his colony homeworld.
