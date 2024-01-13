@@ -141,12 +141,12 @@ export default {
           "mech": "BABY"
         },
          {
-          "callsign": "BEWG",
-          "alias": 'Prys Reierson',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "callsign": "THURSDAY",
+          "alias": 'GUNTER STAUSS',
+          "code": "Stauss※.Gunter:17083f89-f62c-4d08-b179-2e63cdce92db//NDL-C-THETA-MOUNTAIN",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "BABY"
+          "mech": "TANNGRISNIR"
         },
       ],
       "header": {
