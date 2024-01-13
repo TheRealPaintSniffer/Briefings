@@ -1,18 +1,33 @@
-Shayan has spent the last 7 years wandering from place to place taking work as a mercenary. His own conscience often ends up at odds with the type of work available to him and as a result he ends up working low paying jobs. With the little money he scrounges up he is able to barely manage but even so he still uses party of his earnings to fund his passion: Music.
+Samuel Bliss is a soldier, who used to served in the Eden National Army (ENA) before the Union called him up for duty.
 
-Since childhood, music has been his respite from the worries and struggles in his life. As he grow older his fondness for music would develop into an aspiration to become an artist. With the money he saved working as a mercenary he was finally able to produce his very first album "Corrupted Mind Palace."
+Samuel served in the ENA for about four years before being transfer to the Union.
 
-Upon its release the album was critically panned, some calling it the "Worst Beat Ever Created", although Shayan would frequently reject this statement proclaiming that "CMP is a light 7 at WORST." With a failed album and no money to his name, he signs a contract with The Mirrorsmoke Mercenary Company in order to start saving for his next project and clear his tarnished reputation.
+Samuel specialty in middle range and Assault combat.
 
-## Trivia
-- While his passion lies elsewhere, he works as a Lancer Mercenary simply due to his innate abilities as a Mech Pilot.
+Samuel have seen some combat before, but not so much to become a veteran. 
 
-- The name "Type - Worst Beat" was given to his Mech by himself as a cruel reminder of the industry's failings.
+Samuel was a volunteer in the ENA before transfer.
 
-- He carries a bag full of BetaMixes of CMP to give to strangers in hopes of finding kindred spirits who appreciate his style of music.
+Samuel family (The Bliss Family) have a long proud family military tradition of soldiering, all the way back from the formation of the ENA.
 
-- His Frame cockpit has been outfitted in such a way that allows him to use it as an abode while traveling and to avoid inn fees.
+Samuel old squadmate buddy's from the ENA are still there and his relationship with them is cordial.
 
-- He swears by gelato, specifically lemon flavored, and insists that if people tried it they would "get it."
+Gender: Male
 
-- He comes from a large family of brothers and sisters who all wish he'd move back in and find a more sustainable line of work.
+Eyes: Dark Brown 
+
+Height: 5'9
+
+Hair: Light Brown 
+
+Skin: White 
+
+Age: 26
+
+Weight: 165lb.
+
+Samuel Bliss was born and raise on a Colony World named Eden Prime. 
+
+Wears his Armor and his Gasmask like a second skin. It's force a habit and shyness.
+
+Samuel named his EVEREST the "Eden's Pride" after his colony homeworld.
