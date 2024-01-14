@@ -1,1 +1,5 @@
-DOSSIER NOT FOUND
+Union marine from late SecComm. Last deployment was "colonial reintegration" aka suppression. Fragged an officer who was abusive and violent to both his own troops and the locals. He got turned in by locals he incidentally saved in the process, but doesn't blame them because for them it was that or a mass grave. Surprisingly, he got an actual court-martial instead of a field execution and sentenced to life hard labor on a distant penal colony a bit before ThirdComm's revolution. 
+
+Spent nearly 300 years in transit, 10-15 hard labor before the penal colony was liberated. Volunteered to join the Interstellar Solidarity Brigade (the DoJ/HR's establishment hadn't quite caught up with them yet) that liberated the penal colony and spent the next 200 odd years bouncing around doing the lord's work until eventually 'formally' re-enlisting as a chassis pilot for the Union Navy.
+
+A fossil in terms of Omninet popular culture on account of the long periods of sub-light travel, but only 50-ish in subjective terms though he's lost count
