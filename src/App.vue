@@ -108,6 +108,14 @@ export default {
           "frame": "Everest",
           "mech": "SETTING SUN"
         },
+         {
+          "callsign": "TRADESMAN",
+          "alias": "Jorst Wagar",
+          "code": "Wagar※※.Jost:190fb16c-d9a6-424a-a85e-82e495fd247b//NDL-C-LUNAR-OCTOBERL",
+          "corpro": "GMS",
+          "frame": "Chomolungma",
+          "mech": "THE BELIEVING WIDOW"
+        },
         {
           "callsign": "BLACKJACK",
           "alias": "Samuel Bliss",
