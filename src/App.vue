@@ -102,7 +102,7 @@ export default {
       "pilots": [
         {
           "callsign": "STORM",
-          "alias": "Damian "Storm" Kane",
+          "alias": "Damian Kane",
           "code": "Kane※.Damian:e5a27297-233f-4090-8399-68486efd0ac4//NDL-C-SORROW-ROYAL",
           "corpro": "GMS",
           "frame": "Everest",
