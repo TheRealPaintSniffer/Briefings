@@ -101,12 +101,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "MAYDAY",
-          "alias": "Vivian Hetzler",
-          "code": "Hetzler.Vivian:c690758f-5b83-4886-af1c-07ae03a8c6c1//NDL-C-TANGENT-SEPTEMBER",
+          "callsign": "STORM",
+          "alias": "Damian "Storm" Kane",
+          "code": "Kane※.Damian:e5a27297-233f-4090-8399-68486efd0ac4//NDL-C-SORROW-ROYAL",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "SCHRÖDINGER'S HAMMER"
+          "mech": "SETTING SUN"
         },
         {
           "callsign": "BLACKJACK",
