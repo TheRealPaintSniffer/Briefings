@@ -122,7 +122,7 @@ export default {
           "code": ".Samuel.Bliss:f43edfe6-516f-4342-afb2-c8a202a99513//NDL-C-DISCORDANT-AUGUSTa",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "EDEN'S PRIDE"
+          "mech": "EDEN'S PHEONIX"
         },
         {
           "callsign": "Warana",
