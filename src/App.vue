@@ -125,14 +125,6 @@ export default {
           "mech": "YAGUARAÇÚ MK I"
         },
         {
-          "callsign": "BISCUIT",
-          "alias": "IGNATZ STAINS",
-          "code": "Stains※.Ignatz:37df03f9-1efe-4000-8c7a-249d8e84c076//NDL-C-IOTA-BREATH",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "AGGRESSIVE PEACEKEEPER"
-        },
-        {
           "callsign": "BEWG",
           "alias": 'Prys Reierson',
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
